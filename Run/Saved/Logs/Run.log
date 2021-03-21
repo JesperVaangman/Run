@@ -1097,3 +1097,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.21-10.04.51:266][713]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.03.21-10.04.51:270][713]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
 [2021.03.21-10.04.51:271][713]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2021.03.21-10.14.27:724][330]LogSlate: Took 0.004032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.21-10.14.36:827][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.03.21-10.14.36:842][357]LogSavePackage: Moving '../../../../../../Users/Jespe/Run/Run/Saved/Minimal_Default_Auto1EEC82B204230462A3B2F72B0F34A5E8E.tmp' to '../../../../../../Users/Jespe/Run/Run/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2021.03.21-10.14.36:851][357]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.027
+[2021.03.21-10.14.36:851][357]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2021.03.21-10.36.51:519][327]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.03.21-10.36.54:055][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.21-10.36.54:069][597]LogSavePackage: Moving '../../../../../../Users/Jespe/Run/Run/Saved/Minimal_Default893D88E04D1585D7AECF04973CC0FF24.tmp' to '../../../../../../Users/Jespe/Run/Run/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.03.21-10.36.54:088][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../Users/Jespe/Run/Run/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2021.03.21-10.36.54:120][597]LogSavePackage: Moving '../../../../../../Users/Jespe/Run/Run/Saved/Minimal_Default_BuiltDataDF3E561B4B380990A2C34FA0EF912AD1.tmp' to '../../../../../../Users/Jespe/Run/Run/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.03.21-10.36.54:134][597]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.21-10.36.54:134][597]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.03.21-10.36.54:134][597]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.03.21-10.36.57:654][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.03.21-10.36.57:666][915]LogSavePackage: Moving '../../../../../../Users/Jespe/Run/Run/Saved/Minimal_DefaultC6899A0A48ED9819E1AD949796DCD4FE.tmp' to '../../../../../../Users/Jespe/Run/Run/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.03.21-10.36.57:671][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="../../../../../../Users/Jespe/Run/Run/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2021.03.21-10.36.57:696][915]LogSavePackage: Moving '../../../../../../Users/Jespe/Run/Run/Saved/Minimal_Default_BuiltData4BD829DB4F5BBCC4132AA6A39B0FDA57.tmp' to '../../../../../../Users/Jespe/Run/Run/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.03.21-10.36.57:703][915]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.21-10.36.57:703][915]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.03.21-10.36.57:703][915]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
